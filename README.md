@@ -1,1 +1,0 @@
-# TallerPatr-nFactoryMethod
